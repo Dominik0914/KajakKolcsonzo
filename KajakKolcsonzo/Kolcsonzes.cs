@@ -34,7 +34,7 @@ namespace KajakKolcsonzo
                 oss += 4000 * BereltOrak;
             }
             oss += (MentoMellenyek - 1) * 500;
-            if (KesesPerc>=15)
+            if (KesesPerc>15)
             {
                 oss += 3000;
             }
